@@ -1,0 +1,50 @@
+{
+  "collections": [
+    {
+      "name": "Pearls",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/PearlsGenerator/AssetsGenerator-Pearls/refs/heads/main/Pearls/",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 9,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 4,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Clothes",
+          "maxAttributes": 14,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "Ear",
+          "maxAttributes": 17,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "Emotion",
+          "maxAttributes": 20,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Eyewear",
+          "maxAttributes": 15,
+          "OrderImages": 6
+        },
+        {
+          "attributeName": "Hair",
+          "maxAttributes": 12,
+          "OrderImages": 7
+        },
+        {
+          "attributeName": "Hand",
+          "maxAttributes": 69,
+          "OrderImages": 8
+        }
+      ]
+    }
+  ]
+}
