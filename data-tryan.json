@@ -11,22 +11,22 @@
         },
         {
           "attributeName": "Body",
-          "maxAttributes": 1,
+          "maxAttributes": 2,
           "OrderImages": 2
         },
         {
           "attributeName": "Outfit",
-          "maxAttributes": 32,
+          "maxAttributes": 34,
           "OrderImages": 3
         },
         {
           "attributeName": "Head",
-          "maxAttributes": 53,
+          "maxAttributes": 54,
           "OrderImages": 4
         },
         {
           "attributeName": "Hand",
-          "maxAttributes": 54,
+          "maxAttributes": 57,
           "OrderImages": 5
         }
       ]
