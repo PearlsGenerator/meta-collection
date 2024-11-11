@@ -16,17 +16,17 @@
         },
         {
           "attributeName": "Outfit",
-          "maxAttributes": 34,
+          "maxAttributes": 37,
           "OrderImages": 3
         },
         {
           "attributeName": "Head",
-          "maxAttributes": 54,
+          "maxAttributes": 58,
           "OrderImages": 4
         },
         {
           "attributeName": "Hand",
-          "maxAttributes": 57,
+          "maxAttributes": 58,
           "OrderImages": 5
         }
       ]
